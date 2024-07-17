@@ -1,6 +1,6 @@
 # open-webui
 
-Using open-webui wrapping local ollama server.
+Using open-webui for wrapping a local ollama server.
 
 # Usage
 ## 1 OpenAI Translator Chrome Plugin
